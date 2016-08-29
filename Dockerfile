@@ -2,7 +2,7 @@ FROM ubuntu:16.04
 
 # Register arguments
 ARG cname_flags=-DENABLE_CONTENT_PATCHING=OFF
-ARG steemd_version=0.5.0
+ARG steemd_version=0.13.0
 ARG rpc_port=8090
 
 # Install necessary packages
