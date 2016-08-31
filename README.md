@@ -2,6 +2,8 @@
 
 Run steemd in Docker, efficiently.
 
+This is a tchap's FORK by Cryptomental to be used for his own development. Use it at your own will if you find it useful.
+
 ## About
 
 There is already [steemd-docker](https://github.com/blood2/steemd-docker),
